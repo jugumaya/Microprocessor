@@ -5,10 +5,10 @@ An IoT-powered wearable healthcare system designed for real-time remote prenatal
 ---
 
 ##  Authors
-* **Samiul Haque** (i.2210968@iub.edu.bd)
-* **Raisa Tafannum** (ii.2211425@iub.edu.bd)
-* **MD Rayhan Hossain** (iii.2211229@iub.edu.bd)
-* **Jugumaya Saha Disha** (iii.2320434@iub.edu.bd)
+* **Samiul Haque**
+* **Raisa Tafannum** 
+* **MD Rayhan Hossain** 
+* **Jugumaya Saha Disha**
 
 *Department of Computer Science and Engineering (CSE), Independent University, Bangladesh (IUB).*
 
