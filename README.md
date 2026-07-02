@@ -39,4 +39,4 @@ This project represents a collaborative intersection of hardware development, Io
 
 
 ### 📄 Reference Paper
-The foundational research methodology, detailed system block diagrams, mathematical calibration algorithms, and laboratory testing findings are fully documented in the accompanying research paper included in this repository: `IoT_and_AI_in_Maternal_Healthcare_Monitoring.pdf`.
+The foundational research methodology, detailed system block diagrams, mathematical calibration algorithms, and laboratory testing findings are fully documented in the accompanying research paper included in this repository: IoT_and_AI_in_Maternal_Healthcare_Monitoring.pdf
